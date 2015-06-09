@@ -9,7 +9,7 @@ name: Mark Wai
 description: Master Builder
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://lh3.googleusercontent.com/LZmW73utlBBFNBj_LmtniW_G9bevSWhaZRDAGR0ru7o=s200-no
+avatar: {{ site.baseurl }}/images/2015-02-04.png
 
 #
 # Flags below are optional
