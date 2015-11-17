@@ -245,6 +245,18 @@ nav {
   .active-link a {
     color: #a8a8a8;
   }
+  
+  ul {
+    list-style: none;
+    list-style-image: none;
+    list-style-type: none;
+  }
+  
+  li {
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+  }
 }
 
 //
