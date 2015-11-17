@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<span class="post-text">
+<p class="post-text">
 Hello there! I am Mark, a Canadian currently living in SF.
-</span>
-<span class="post-text">
+</p>
+<p class="post-text">
 I love tech, music, and photography.
-</span>
+</p>
