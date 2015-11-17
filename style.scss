@@ -235,6 +235,18 @@ nav {
     @include mobile {
     }
   }
+  
+  .active-link a {
+    color: #a8a8a8;
+  }
+  
+  a:link {
+    color: #666;
+  }
+  
+  a:hover {
+    color: #a8a8a8;
+  }
 }
 
 //
