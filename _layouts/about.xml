@@ -22,8 +22,14 @@
         </header>
         <div class="container">
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <ul>
+              <li class="blog-page">
+                <a href="{{ site.baseurl }}/">Blog</a>
+              </li>
+              <li class="about-page active-link">
+                <a href="{{ site.baseurl }}/about">About</a>
+              </li>
+            </ul>
           </nav>
         </div>
       </div>
